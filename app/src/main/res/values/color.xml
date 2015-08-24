@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="app_color">#E9AB17</color>
+
+
+
+    <color name="list_item_title">#585858</color>
+    <color name="list_background">#E3F2FD</color>
+    <color name="list_background_pressed">#90CAF9</color>
+    <color name="list_divider">#a0a0a0</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+     <color name="lightgray">#F0F2F2</color>
+     
+      <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#F2F2F2</color>
+    <color name="tab_highlight">#545454</color> 
+    <color name="contact_hint">#F78C2F</color>
+    <color name="contact_send">#E81034</color>  
+    <color name="dialog_btn_pressed">#DBDBDB</color> 
+    <color name="send_btn_pressed">#992038</color> 
+    <color name="setting_dark_grey">#6e6e6f</color> 
+</resources>

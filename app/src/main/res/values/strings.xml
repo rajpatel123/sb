@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+<string name="action_search">Search</string>
+
+    <!--custom label messages-->
+    <string name="sign_in_text">SIGN IN</string>
+    <string name="title_activity_testactivity">testactivity</string>
+    <string name="title_activity_landing_acitivity">LandingAcitivity</string>
+
+    <string name="forgot_in_text">FORGOT PASSWORD</string>
+    <!-- <string name="dont_hv_account">Dont't have an account?</string>-->
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_good_find_home">GoodFindHomeActivity</string>
+
+  <string name="app_name">SportsBarrel</string>
+    
+     <!-- Navigation Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Basketball</item>
+        <item>kabaddi</item>
+        <item>Tennis</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Skating</item>
+        <item>Volley Ball</item>
+        <item>Sports Wear</item>
+        <item>Sports Shoes</item>
+        <item>Badminton</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Archery</item>
+        <item>Billiards/Pool</item>
+        <item>Boxing</item>
+        <item>Athlete</item>
+        <item>Gymnasium</item>
+        <item>Weight Lifting and Fitness</item>
+        <item>Other Sports</item>
+       
+    </string-array>
+
+    <!-- List Item Icons(Images) with strings(text of company name) -->
+    <!-- Keep them with titles array accordingly -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/icon_home</item>
+        <item>@drawable/icon_cricket</item>
+        <item>@drawable/icon_football</item>
+        <item>@drawable/icon_hockey</item>
+        <item>@drawable/icon_basketball</item>
+        <item>@drawable/icon_kabaddi1</item>
+        <item>@drawable/icon_tennis</item>
+        <item>@drawable/icon_cycling</item>
+        <item>@drawable/icon_golf</item>
+        <item>@drawable/icon_skating</item>
+        <item>@drawable/icon_volleyball</item>
+        <item>@drawable/icon_sportswear</item>
+        <item>@drawable/icon_shoe</item>
+        <item>@drawable/icon_badminton</item>
+        <item>@drawable/icon_swimming</item>
+        <item>@drawable/icon_tabletennis</item>
+        <item>@drawable/icon_archery</item>
+        <item>@drawable/icon_billiards</item>
+        <item>@drawable/icon_boxing</item>
+        <item>@drawable/icon_athlete</item>
+        <item>@drawable/icon_gymnasium</item>
+        <item>@drawable/icon_weightlifting</item>
+        <item>@drawable/icon_other</item>
+        
+    </array>
+</resources>

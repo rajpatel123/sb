@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-d929250f792805d9f595e37c6e72461e3433efc9.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-40e3bfe4ead9d9c559ed4acc1763b73561b9718d.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-424d699f1d93eefc480a642f9ceb18532b63695c.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-6ced55d87897d34e9f8131230934a821c3331a22.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-4e3d9cc89ff521569e3a92562ece89402539c9d4.jar" />
+    </item>
+    <item
+        jar="/home/qss/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.17/f417d7f776d1ee5858fc04d9362aa45e9bedd26b/library-1.0.17.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f417d7f776d1ee5858fc04d9362aa45e9bedd26b">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/library-1.0.17-880741542a97ca74dbc9fa2791f7625f09d3d58e.jar" />
+    </item>
+    <item
+        jar="/home/qss/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/gson-2.3-3f24fe971f8ecaacde64607341b99f8275417b41.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-08f267fe9e24d0414817e7bf1cbb986107ca4c2c.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-6399e9ee00036b0e9b24bdfc13de012b25701b3b.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-a9ae7d956a85ebed3418456d18ee66b2d50662c6.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-635e0f66557f03394a5dc7c22412740f6164d469.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-2864609ebd56847f94fcd7d2bfed9cf0925f04f8.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-33d9443cfc240236fb18adfbbee7101caaa99a74.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-aedc829188ece9c31168fabc5521a8afc18c45d2.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-cf1244deac3719ea0c2c72872d0babd274f7b269.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-0ec2a00319c452d6e623bfc66e069d10c3730220.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-abddfd8809ea20243583e1fe3b99d5a65722b206.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-b263f27bc495cf166c89cf67fdeeca02bc5f4349.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-e9a26ec6819d22a446d9b5e10f1bc45dfc2f6928.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-cf6d8af3d9297543482fcef06cb45a282d588e41.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-961dd51d08b22aeba21fcc907941f5c2cab8cd69.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-ed0f30fbaffa2b174262787a1cdc8c54a3898e25.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-7d4fa169367cef49e624b4cabf50c6db85546d39.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-13bf49fc1d840abd0fafc07e64c75fcdf682764f.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-7e7f643aae41365efb0dd53eff206eadcee98f12.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-c1fa0d3abf1eba4373a4aa2ac3d168c8491dd5b9.jar" />
+    </item>
+    <item
+        jar="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/classes-e98a690d2190f921fc4d24ebe6c494d0fb2218b4.jar" />
+    </item>
+    <item
+        jar="/home/qss/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/qss/Downloads/downloded/TutosAndroidFrance-master/ToolbarAndDrawer/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-2222e3168862dc6987df14bf079b2d5352468f69.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+
+    <TextView
+        android:id="@+id/lblListHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="@dimen/group_item_padding_in_expandable_list"
+        android:text="Item"
+        android:textColor="#000"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/plus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="+"
+        android:textSize="17dip"
+        android:textStyle="bold" />
+
+</RelativeLayout>

@@ -1,0 +1,102 @@
+{
+  "retailers": [
+    {
+      "id": 12,
+      "title": "Amazon",
+      "url": "url of amazon"
+    },
+    {
+      "id": 13,
+      "title": "Flipcart",
+      "url": "url of Flipcart"
+    },
+    {
+      "id": 14,
+      "title": "PayTm",
+      "url": "url of PayTm"
+    },
+    {
+      "id": 12,
+      "title": "Amazon",
+      "url": "url of amazon"
+    },
+    {
+      "id": 13,
+      "title": "Flipcart",
+      "url": "url of Flipcart"
+    },
+    {
+      "id": 14,
+      "title": "PayTm",
+      "url": "url of PayTm"
+    },
+    {
+      "id": 12,
+      "title": "Amazon",
+      "url": "url of amazon"
+    },
+    {
+      "id": 13,
+      "title": "Flipcart",
+      "url": "url of Flipcart"
+    },
+    {
+      "id": 14,
+      "title": "PayTm",
+      "url": "url of PayTm"
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "title": "Electronics",
+      "childs": [
+        {
+          "id": 14,
+          "title": "Iron",
+          "url": "url of Iron"
+        },
+        {
+          "id": 14,
+          "title": "Wire",
+          "url": "url of Wire"
+        },
+        {
+          "id": 14,
+          "title": "Fan",
+          "url": "url of Fan"
+        },
+        {
+          "id": 14,
+          "title": "Bulbs",
+          "url": "url of Bulbs"
+        }
+      ]
+    },{"id": 14,
+      "title": "Mobile",
+
+
+      "childs": [
+        {
+          "id": 14,
+          "title": "Iron",
+          "url": "url of Iron"
+        },
+        {
+          "id": 14,
+          "title": "Wire",
+          "url": "url of Wire"
+        },
+        {
+          "id": 14,
+          "title": "Fan",
+          "url": "url of Fan"
+        },
+        {
+          "id": 14,
+          "title": "Bulbs",
+          "url": "url of Bulbs"
+        }
+      ]}
+  ]
+}

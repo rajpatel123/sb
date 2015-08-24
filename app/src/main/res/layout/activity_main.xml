@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/too1lbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_color"
+        android:minHeight="?attr/actionBarSize" />
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:id="@+id/scrollNav"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:background="@drawable/home"
+                    android:orientation="vertical">
+
+
+                    <tutosandroidfrance.com.toolbaranddrawer.utils.RoundedImageView
+                        android:id="@+id/userphoto"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center"
+                        android:layout_centerInParent="true"
+                        android:layout_margin="10dp"
+                        android:scaleType="centerCrop"
+                        app:border_color="#333333"
+                        app:border_width="0dip"
+                        android:background="@drawable/avtar"
+                        app:corner_radius="15dip"
+                        app:is_oval="true" >
+
+                    </tutosandroidfrance.com.toolbaranddrawer.utils.RoundedImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="@color/black"
+                        android:text="Wecome User" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:layout_gravity="center"
+                        android:text="raj95288@gmail.com" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:orientation="vertical">
+
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+
+        <FrameLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </FrameLayout>
+
+    </android.support.v4.widget.DrawerLayout>
+</LinearLayout>
